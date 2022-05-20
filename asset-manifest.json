@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/raftlabs-assignment2/static/css/main.e001f53e.css",
+    "main.js": "/raftlabs-assignment2/static/js/main.91d144bb.js",
+    "index.html": "/raftlabs-assignment2/index.html",
+    "main.e001f53e.css.map": "/raftlabs-assignment2/static/css/main.e001f53e.css.map",
+    "main.91d144bb.js.map": "/raftlabs-assignment2/static/js/main.91d144bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e001f53e.css",
+    "static/js/main.91d144bb.js"
+  ]
+}
