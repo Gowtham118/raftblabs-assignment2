@@ -30,7 +30,7 @@ const ChessBoard = () => {
                 )
                   ? "green"
                   : selectedSquare && selectedSquare[0] === j[0] && selectedSquare[1] === j[1]
-                  ? `url(../../../assets/black-knight.png)`
+                  ? "white"
                   : (j[0] + j[1]) % 2 === 0
                   ? "#F2D9BB"
                   : "#BF8969",
